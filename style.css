@@ -5,3 +5,7 @@ font-family: 'Albert Sans', sans-serif;
 .bg-color {
     background-color: #F4FAFD;
 }
+.fa-star,
+.fa-star-half-stroke {
+    color: #f8a514;
+}
